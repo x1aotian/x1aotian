@@ -1,16 +1,30 @@
-### Hi there 👋
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
-<!--
-**x1aotian/x1aotian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there, I am Xiaotian Fang 👋
+- 🟦 LinkedIn: [xiaotian-fang](https://www.linkedin.com/in/xiaotian-fang/)
+- 📮 Email: [fangxt@uw.edu](mailto:fangxt@uw.edu)
+- 🎯 Portfolio: [Portfolio](https://x1aotian.github.io/)
+
+💻 **Things I love**
+- Python, C++, Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Backend & Fullstack Development ➡️
+- Machine Learning Engeering (DL & CV) 🤖
+    
+🛠**Tech Stack**
+
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Jameson)
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=Spring)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
+![MySQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js)
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
