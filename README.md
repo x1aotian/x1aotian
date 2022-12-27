@@ -1,4 +1,4 @@
-<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Coder GIF" width="500" height="330">
+<img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Coder GIF" width="480" height="320">
 
 ### Hi there, I am Xiaotian Fang 👋
 - 🟦 LinkedIn: [xiaotian-fang](https://www.linkedin.com/in/xiaotian-fang/)
