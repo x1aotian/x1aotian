@@ -12,7 +12,7 @@
     
 🛠**Tech Stack**
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Jameson)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=OpenJDK)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=Spring)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![MySQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
@@ -22,6 +22,7 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js)
 
+![C++](https://img.shields.io/badge/-C/C++-000000?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
