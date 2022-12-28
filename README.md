@@ -3,7 +3,7 @@
 ### Hi there, I am Xiaotian Fang 👋
 - 🟦 LinkedIn: [xiaotian-fang](https://www.linkedin.com/in/xiaotian-fang/)
 - 📮 Email: [fangxt@uw.edu](mailto:fangxt@uw.edu)
-- 🎯 Portfolio: [Portfolio](https://x1aotian.github.io/)
+- 🎯 Portfolio: [x1aotian.github.io](https://x1aotian.github.io/)
 
 💻 **Things I love**
 - Python, C++, Java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
